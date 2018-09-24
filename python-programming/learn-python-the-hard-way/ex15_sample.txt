@@ -1,0 +1,3 @@
+Hello, world!
+Here is a file...
+...that my computer wrote!
